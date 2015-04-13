@@ -1,9 +1,5 @@
-# The largest heading
-* Item
-  * Item
-    * Item
-    * Item
-* Item
-* Item
-
-[Tasks](/tasks)
+# TFC documentation
+* [Reglament](/reglament)
+* [Rules](/rules)
+* [Tasks](/tasks)
+* *[Admin](/tasks/admin)
